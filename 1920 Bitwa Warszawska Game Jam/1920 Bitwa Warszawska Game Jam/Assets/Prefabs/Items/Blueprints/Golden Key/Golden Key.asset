@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 043fc675612dc1744ae1664fede8e4e9, type: 3}
+  m_Name: Golden Key
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 2142083029735979800, guid: 5dc18e9e6323cc7468410672411e80f5, type: 3}
+  storeable: 1
+  isQuestItem: 0
+  itemID: 50
